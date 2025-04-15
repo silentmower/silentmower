@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/chibi-hyper-neon-anime-dance-sfipr7dzsesrwnaf.gif" width="300" />
+  <img src="https://www.wallpaperengine.space/wp-content/uploads/2023/07/millie-in-neon-glow-cyberpunk2077.gif" width="300" />
 </p>
 
 
