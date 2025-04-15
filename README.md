@@ -4,16 +4,17 @@
 
 <h3>
 💡 Stuff I know
-  <hr style="height:1px;">
 
+<p>
 <img src="https://skillicons.dev/icons?i=python" />
-
+</p>
 
 
 📘 Currently learning
-<hr style="height:1px;">
 
+<p>
 <img src="https://skillicons.dev/icons?i=java" />
+  </p>
 </h3>
 
 <!--
