@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Hello+I'm+Filip" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://www.wallpaperengine.space/wp-content/uploads/2023/07/millie-in-neon-glow-cyberpunk2077.gif" width="300" />
+📚 I'm currently learning:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python" />
 </p>
 
 
