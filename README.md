@@ -2,10 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Hello+I'm+Filip" alt="Typing SVG" />
 </h1>
 
-📚 I'm currently learning:
-
+### 🧠 Języki, które znam:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+### 📘 Języki, których się uczę:
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
 
 
