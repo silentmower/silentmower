@@ -4,14 +4,14 @@
 
 <h3>
 💡 Stuff I know
-  <hr style="height:4px;">
+  <hr style="height:1px;">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 
 
 📘 Currently learning
-<hr style="height:4px;">
+<hr style="height:1px;">
 
 <img src="https://skillicons.dev/icons?i=java" />
 </h3>
