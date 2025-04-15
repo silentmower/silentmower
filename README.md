@@ -14,7 +14,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
-
+<p align="center">
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=silentmower&style=flat-square&color=brightgreen)
+</p>
 
 <!--
 **silentmower/silentmower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
