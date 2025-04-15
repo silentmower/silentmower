@@ -15,8 +15,8 @@
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-%20-green?style=flat-square&logo=github" />
-  <img src="https://profile-counter.glitch.me/silentmower/count.svg" alt="profile views" />
+  <strong>👁️ Profile views</strong><br>
+  <img src="https://profile-counter.glitch.me/silentmower/count.svg" alt="profile views" width="100"/>
 </p>
 
 
