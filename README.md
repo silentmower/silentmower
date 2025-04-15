@@ -4,11 +4,13 @@
 
 
 ### 🧠 Stuff I know
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 ### 📘 Currently learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
