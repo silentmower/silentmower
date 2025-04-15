@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Hello+I'm+Filip" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Hello+I'm+Filip!;Welcome+to+my+GitHub+profile!;Happy+to+see+you+here+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 
 <!--
 **silentmower/silentmower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
