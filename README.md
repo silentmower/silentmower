@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 <p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=silentmower&style=flat-square&color=brightgreen)
+  <img src="https://profile-counter.glitch.me/silentmower/count.svg" />
 </p>
 
 <!--
