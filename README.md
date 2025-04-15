@@ -2,16 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Hello+I'm+Filip" alt="Typing SVG" />
 </h1>
 
-### 🧠 Języki, które znam:
+<h3>
+### 🧠 Stuff I know:
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
-### 📘 Języki, których się uczę:
+### 📘 Currently learning:
 <p>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
-
+</h3>
 
 <!--
 **silentmower/silentmower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
