@@ -4,14 +4,12 @@
 
 <h3>
 💡 Stuff I know
-
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 
 📘 Currently learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
   </p>
