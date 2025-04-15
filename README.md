@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2023/12/jojos-bizarre-jotaro-kujo-neon-colors-gif-desktop-wallpaper.gif" width="300" />
+  <img src="https://gifdb.com/images/high/chibi-hyper-neon-anime-dance-sfipr7dzsesrwnaf.gif" width="300" />
 </p>
 
 
