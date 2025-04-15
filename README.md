@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 <p>
-    <img src="https://img.shields.io/badge/Profile%20views-%20-green?style=flat-square&logo=github" />
+  
   <img src="https://komarev.com/ghpvc/?username=silentmower&label=Profile%20views&color=00ff00&style=flat" alt="Profile views counter" />
 </p>
 
