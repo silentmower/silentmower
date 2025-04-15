@@ -3,12 +3,12 @@
 </h1>
 
 <h3>
-### 🧠 Stuff I know:
+🧠 Stuff I know:
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
-### 📘 Currently learning:
+📘 Currently learning:
 <p>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
