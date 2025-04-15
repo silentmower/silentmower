@@ -3,12 +3,16 @@
 </h1>
 
 <h3>
-### 💡 Stuff I know
+💡 Stuff I know
+  <hr style="height:4px;">
+
 <img src="https://skillicons.dev/icons?i=python" />
 
----
 
-### 📘 Currently learning
+
+📘 Currently learning
+<hr style="height:4px;">
+
 <img src="https://skillicons.dev/icons?i=java" />
 </h3>
 
