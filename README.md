@@ -15,8 +15,10 @@
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/silentmower/count.svg" />
+  <img src="https://img.shields.io/badge/Profile%20views-%20-green?style=flat-square&logo=github" />
+  <img src="https://profile-counter.glitch.me/silentmower/count.svg" alt="profile views" />
 </p>
+
 
 <!--
 **silentmower/silentmower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
