@@ -7,9 +7,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,github,java" />
 </p>
-
+<!--
 ### 📘 Currently learning
-
+<!--
 <p>
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
