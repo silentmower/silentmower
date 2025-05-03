@@ -5,18 +5,19 @@
 ### 🧠 Stuff I know
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,java" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,python,java" />
 </p>
-<!--
+
 ### 📘 Currently learning
-<!--
+
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
--->
+
 <p> 
   <img src="https://komarev.com/ghpvc/?username=silentmower&label=Profile%20views&color=007f00&style=flat" alt="Profile views counter" />
 </p>
+
 
 <!--
 **silentmower/silentmower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
