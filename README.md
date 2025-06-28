@@ -6,7 +6,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,python,java" />
+  <img src="https://skillicons.dev/icons?i=github,git,html,css,js,python,docker" />
 </p>
 
 ### 📘 Currently learning
