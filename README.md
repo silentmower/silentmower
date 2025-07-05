@@ -24,7 +24,9 @@
 </p>
 
 
-
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=silentmower&label=Profile%20views&color=007f00&style=flat" alt="Profile views counter" />
+</p>
 
 
 
